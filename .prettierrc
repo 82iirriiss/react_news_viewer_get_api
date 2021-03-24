@@ -1,8 +1,15 @@
+<<<<<<< HEAD
 .prettierrc
 {
     "singleQuote":true,
     "semi":true,
     "useTabs":false,
+=======
+{
+    "singleQuote":true,
+    "semi":true,
+    "useTabs":flase,
+>>>>>>> 5d4b27817f9bf5ca40f4a725e3f1edf57dea5ed4
     "tabWidth":2,
     "trailingComma":"all",
     "printWidth":80
